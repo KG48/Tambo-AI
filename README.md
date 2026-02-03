@@ -483,3 +483,6 @@ If you find Tambo useful, please consider starring the repository!
 ---
 
 **Built with ❤️ by developers, for developers**
+
+
+Author : Karan Gavhane
